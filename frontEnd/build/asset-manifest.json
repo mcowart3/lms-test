@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2dad697c.chunk.css",
+    "main.js": "/static/js/main.9396c089.chunk.js",
+    "main.js.map": "/static/js/main.9396c089.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b234ba30.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b234ba30.js.map",
+    "static/js/2.58e0e746.chunk.js": "/static/js/2.58e0e746.chunk.js",
+    "static/js/2.58e0e746.chunk.js.map": "/static/js/2.58e0e746.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c81d7b436952a0fd9ea4db0a87de6403.js": "/precache-manifest.c81d7b436952a0fd9ea4db0a87de6403.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2dad697c.chunk.css.map": "/static/css/main.2dad697c.chunk.css.map",
+    "static/js/2.58e0e746.chunk.js.LICENSE.txt": "/static/js/2.58e0e746.chunk.js.LICENSE.txt",
+    "static/media/SortDropdown.module.scss": "/static/media/Roboto-Light.d5c46b13.ttf",
+    "static/media/DocumentPreview.module.scss": "/static/media/Roboto-Thin.14147ca3.ttf",
+    "static/media/index.css": "/static/media/monbaiti.e7967f8e.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b234ba30.js",
+    "static/js/2.58e0e746.chunk.js",
+    "static/css/main.2dad697c.chunk.css",
+    "static/js/main.9396c089.chunk.js"
+  ]
+}
